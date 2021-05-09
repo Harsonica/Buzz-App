@@ -1,1 +1,2 @@
-# Buzz-App
+# tabNavigation
+Tab navigation in the app
